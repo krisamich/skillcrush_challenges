@@ -10,7 +10,7 @@ end
 
 my_favorite = FavoriteSong.new
 my_favorite.name = "The Day The World Went Away"
-my_favorite.artist = "Nine Inch Nails"
+my_favorite.artist = "NIN"
 my_favorite.album = "The Fragile"
 
 puts my_favorite.about_song
